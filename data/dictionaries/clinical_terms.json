@@ -1,0 +1,537 @@
+{
+  "demam": {
+    "normalized": "fever",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "batuk": {
+    "normalized": "cough",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "batuk berdahak": {
+    "normalized": "cough with sputum",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "sesak napas": {
+    "normalized": "shortness of breath",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "nyeri dada": {
+    "normalized": "chest pain",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "mual": {
+    "normalized": "nausea",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "muntah": {
+    "normalized": "vomiting",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "diare": {
+    "normalized": "diarrhea",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "influenza": {
+    "normalized": "influenza",
+    "type": "disease",
+    "status": "verified"
+  },
+  "wasir": {
+    "normalized": "hemorrhoid",
+    "type": "disease",
+    "status": "verified"
+  },
+  "keadaan umum": {
+    "normalized": "general condition",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "presentasi kepala": {
+    "normalized": "cephalic presentation",
+    "type": "obstetric_finding",
+    "status": "verified"
+  },
+  "masuk panggul": {
+    "normalized": "engaged in pelvis",
+    "type": "obstetric_finding",
+    "status": "verified"
+  },
+  "mimisan": {
+    "normalized": "nosebleed",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "batuk ngikil": {
+    "normalized": "whooping cough",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "re sc": {
+    "normalized": "repeat cesarean section",
+    "type": "procedure",
+    "status": "verified"
+  },
+  "nyeri ulu hati": {
+    "normalized": "epigastric pain",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kuning": {
+    "normalized": "jaundice",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "keluar flek": {
+    "normalized": "vaginal spotting",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "batuk grok": {
+    "normalized": "barking cough",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "bab cair": {
+    "normalized": "liquid stool",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kenceng-kenceng": {
+    "normalized": "strong contractions",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "konstipasi": {
+    "normalized": "constipation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "konsultasi": {
+    "normalized": "consultation",
+    "type": "procedure",
+    "status": "verified"
+  },
+  "curet": {
+    "normalized": "curettage",
+    "type": "procedure",
+    "status": "verified"
+  },
+  "kuret": {
+    "normalized": "curettage",
+    "type": "procedure",
+    "status": "verified"
+  },
+  "lemas": {
+    "normalized": "weakness",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "usg": {
+    "normalized": "ultrasonography",
+    "type": "procedure",
+    "status": "verified"
+  },
+  "ketuban rembes": {
+    "normalized": "leaking amniotic fluid",
+    "type": "obstetric_finding",
+    "status": "verified"
+  },
+  "ruam": {
+    "normalized": "rash",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "bengkak": {
+    "normalized": "swelling",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "mencret": {
+    "normalized": "diarrhea",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "keputihan": {
+    "normalized": "vaginal discharge",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kram": {
+    "normalized": "cramps",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "luka basah": {
+    "normalized": "wet wound",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "luka kering": {
+    "normalized": "healed or dry wound",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "sesak nafas": {
+    "normalized": "shortness of breath",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "sesek nafas": {
+    "normalized": "shortness of breath",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "bercak merah": {
+    "normalized": "red spots",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "berccak merah": {
+    "normalized": "red spots",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "bintik merah": {
+    "normalized": "red spots",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "nyeri uluhati": {
+    "normalized": "epigastric pain",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "berdahak": {
+    "normalized": "with sputum",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kesemutan": {
+    "normalized": "tingling",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "jatuh": {
+    "normalized": "fall",
+    "type": "clinical_event",
+    "status": "verified"
+  },
+  "dingin": {
+    "normalized": "cold sensation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kemerahan": {
+    "normalized": "redness",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "pendarahan": {
+    "normalized": "bleeding",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "pandangan kabur": {
+    "normalized": "blurred vision",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "mules": {
+    "normalized": "abdominal cramps",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "serotinus": {
+    "normalized": "post-term pregnancy",
+    "type": "obstetric_finding",
+    "status": "verified"
+  },
+  "menangis": {
+    "normalized": "crying",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "gatal": {
+    "normalized": "itching",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "gatel": {
+    "normalized": "itching",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "nyeri hilang timbul": {
+    "normalized": "intermittent pain",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "perut sakit": {
+    "normalized": "abdominal pain",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "asma": {
+    "normalized": "asthma",
+    "type": "disease",
+    "status": "verified"
+  },
+  "ashma": {
+    "normalized": "asthma",
+    "type": "disease",
+    "status": "verified"
+  },
+  "keringat dingin": {
+    "normalized": "cold sweat",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kistam ovarium": {
+    "normalized": "ovarian cyst",
+    "type": "disease",
+    "status": "verified"
+  },
+  "anget": {
+    "normalized": "warm sensation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "anget anget": {
+    "normalized": "warm sensation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "muntah hebat": {
+    "normalized": "severe vomiting",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "presentasi bokong": {
+    "normalized": "breech presentation",
+    "type": "obstetric_finding",
+    "status": "verified"
+  },
+  "sadar": {
+    "normalized": "conscious",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "tumbuh kembang": {
+    "normalized": "growth and development",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "melirik keatas": {
+    "normalized": "looking upward",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "melirik kebawah": {
+    "normalized": "looking downward",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "pandangan tidak stabil": {
+    "normalized": "unstable vision",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "slepek": {
+    "normalized": "drooping",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "benjolan leher": {
+    "normalized": "neck mass",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "preterm": {
+    "normalized": "preterm",
+    "type": "obstetric_finding",
+    "status": "verified"
+  },
+  "lidah perih": {
+    "normalized": "burning tongue",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "perih": {
+    "normalized": "burning sensation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "sariawan": {
+    "normalized": "canker sore",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "tersedak": {
+    "normalized": "choking",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kejang": {
+    "normalized": "seizure",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "gatal-gatal": {
+    "normalized": "itching",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "begah": {
+    "normalized": "bloated sensation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "anemia": {
+    "normalized": "anemia",
+    "type": "disease",
+    "status": "verified"
+  },
+  "bernanah": {
+    "normalized": "purulent discharge",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "luka nanah": {
+    "normalized": "purulent wound",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "bisul": {
+    "normalized": "boil",
+    "type": "disease",
+    "status": "verified"
+  },
+  "bisul di bokong": {
+    "normalized": "buttock boil",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "bisul di punggung": {
+    "normalized": "back boil",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "bisul di kepala": {
+    "normalized": "scalp boil",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "menelan sakit": {
+    "normalized": "painful swallowing",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "mampet": {
+    "normalized": "nasal congestion",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "hidung mampet": {
+    "normalized": "nasal congestion",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "mendelik": {
+    "normalized": "staring",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "epilepsi": {
+    "normalized": "epilepsy",
+    "type": "disease",
+    "status": "verified"
+  },
+  "cacar": {
+    "normalized": "measles",
+    "type": "disease",
+    "status": "verified"
+  },
+  "cacar air": {
+    "normalized": "chickenpox",
+    "type": "disease",
+    "status": "verified"
+  },
+  "infertilitas": {
+    "normalized": "infertility",
+    "type": "disease",
+    "status": "verified"
+  },
+  "kemaluan gatal": {
+    "normalized": "itchy genitals",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "kemaluan bau": {
+    "normalized": "foul-smelling genitals",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "meler": {
+    "normalized": "runny nose",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "luka": {
+    "normalized": "wound",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "memar": {
+    "normalized": "bruise",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "tegang": {
+    "normalized": "tense sensation",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "lelah": {
+    "normalized": "fatigue",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "hamil": {
+    "normalized": "pregnant",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "kebiruan": {
+    "normalized": "cyanosis",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "bentol-bentol": {
+    "normalized": "bumps",
+    "type": "symptom",
+    "status": "verified"
+  },
+  "urin": {
+    "normalized": "urine",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "urin berwarna": {
+    "normalized": "discolored urine",
+    "type": "clinical_finding",
+    "status": "verified"
+  },
+  "batuk pilek": {
+    "normalized": "cough with runny nose",
+    "type": "symptom",
+    "status": "verified"
+  }
+}

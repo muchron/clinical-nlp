@@ -1,0 +1,102 @@
+{
+  "ku": {
+    "expansion": "keadaan umum",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "preskep": {
+    "expansion": "presentasi kepala",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "tdk": {
+    "expansion": "tidak",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "msk": {
+    "expansion": "masuk",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "djj": {
+    "expansion": "denyut jantung janin",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "tfu": {
+    "expansion": "tinggi fundus uteri",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "hpl": {
+    "expansion": "hari perkiraan lahir",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "hpht": {
+    "expansion": "hari pertama haid terakhir",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "usg": {
+    "expansion": "ultrasonografi",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "pcv": {
+    "expansion": "pneumococcal conjugate vaccine",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "dpt": {
+    "expansion": "difteri pertusis tetanus",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "mmr": {
+    "expansion": "measles mumps rubella",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "smrs": {
+    "expansion": "sebelum masuk rumah sakit",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "kpd": {
+    "expansion": "ketuban pecah dini",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "re sc": {
+    "expansion": "repeat section caesarean",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "hr": {
+    "expansion": "hari",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "mgg": {
+    "expansion": "minggu",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "bln": {
+    "expansion": "bulan",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "(-)": {
+    "expansion": "disangkal",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  },
+  "x": {
+    "expansion": "kali",
+    "type": "clinical_abbreviation",
+    "status": "verified"
+  }
+}

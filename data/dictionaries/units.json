@@ -1,0 +1,32 @@
+{
+    "cm": {
+        "normalized": "centimeter",
+        "type": "length_unit",
+        "status": "verified"
+    },
+    "mm": {
+        "normalized": "millimeter",
+        "type": "length_unit",
+        "status": "verified"
+    },
+    "kg": {
+        "normalized": "kilogram",
+        "type": "mass_unit",
+        "status": "verified"
+    },
+    "mg": {
+        "normalized": "milligram",
+        "type": "mass_unit",
+        "status": "verified"
+    },
+    "ml": {
+        "normalized": "milliliter",
+        "type": "volume_unit",
+        "status": "verified"
+    },
+    "bpm": {
+        "normalized": "beats per minute",
+        "type": "frequency_unit",
+        "status": "verified"
+    }
+}
